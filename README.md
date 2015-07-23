@@ -10,6 +10,7 @@
     - [Install missing dependencies and compile/build project](#install-missing-dependencies-and-compilebuild-project)
     - [Generate a single file will all necessary dependencies](#generate-a-single-file-will-all-necessary-dependencies)
   - [Run example project](#run-example-project)
+- [Protege](#protege)
   - [Examine OWL file using Protege](#examine-owl-file-using-protege)
 - [ChiBE: Chisio BioPAX Editor Quickstart](#chibe-chisio-biopax-editor-quickstart)
   - [Project Website](#project-website)
@@ -20,8 +21,8 @@
       - [Visualizing](#visualizing)
   - [Getting Additional Pathways](#getting-additional-pathways)
 - [BioPAX Web Console](#biopax-web-console)
+- [Pathway Commons Interactive API](#pathway-commons-interactive-api)
 - [Links](#links)
-  - [Test](#test)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
