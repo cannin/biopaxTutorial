@@ -63,7 +63,9 @@ $ mvn --version
 
 The project outputs members of all reactions in a pathway and any external database references for them to screen and a file. NOTE: Several files will be downloaded: 
 
+```
 mvn archetype:generate -DarchetypeRepository=http://www.biopax.org/m2repo/snapshots/ -DarchetypeGroupId=org.biopax.paxtools -DarchetypeArtifactId=paxtools-archetype -DarchetypeVersion=4.3.1-SNAPSHOT -DgroupId=com.example.test -DartifactId=test -Dversion=1.0-SNAPSHOT
+```
 
 ## Project will be in folder "test". Build the project with following commands: 
 
@@ -117,10 +119,17 @@ Select your pathway of interest.
 
 # BioPAX Web Console
 
-BioPAX Web Console is an environment to try out Paxtools
+The BioPAX Web Console is an environment to try out Paxtools
 
 * [Code Repository: https://github.com/cannin/biopaxWebConsole](https://github.com/cannin/biopaxWebConsole)
 * [Live Version: http://pk0iye.appspot.com/](http://pk0iye.appspot.com/)
+
+# Pathway Commons Interactive API 
+
+The Pathway Commons Interactive API is an environment to try out Pathway Commons API functions
+
+* [Full API Documentation](http://www.pathwaycommons.org/pc2/)
+* [Full API Documentation](http://www.pathwaycommons.org/pc2/)
 
 # Links 
 ## Test
