@@ -17,19 +17,25 @@
 * Protege can be run by clicking on the “run.command” file inside the downloaded archive
 * Maven 
 
+```
 $ tar -xvf apache-maven-3.2.5-bin.tar.gz
 $ sudo mv apache-maven-3.2.5 /usr/local
 
 $ nano ~/.bash_profile
 
+#Add below lines in the .bash_profile
 export M2_HOME=/usr/local/apache-maven-3.2.5
 export PATH=$PATH:$M2_HOME/bin
+#Save and quit
 
 $ source .bash_profile 
+```
 
 If it worked you should have output with the following: 
 
+```
 $ mvn --version
+```
 
 ## Make template Paxtools project. 
 
