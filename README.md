@@ -14,12 +14,14 @@
 - [ChiBE: Chisio BioPAX Editor Quickstart](#chibe-chisio-biopax-editor-quickstart)
   - [Project Website](#project-website)
   - [Download](#download)
-    - [Link for OSX:  http://www.cs.bilkent.edu.tr/~ivis/chibe/chibe-2.2.0-setup-macosx-x86.zip](#link-for-osx--httpwwwcsbilkentedutrivischibechibe-220-setup-macosx-x86zip)
   - [Installation](#installation-1)
   - [Usage](#usage)
     - [Multiple Files/Pathways in the Same Session](#multiple-filespathways-in-the-same-session)
       - [Visualizing](#visualizing)
   - [Getting Additional Pathways](#getting-additional-pathways)
+- [BioPAX Web Console](#biopax-web-console)
+- [Links](#links)
+  - [Test](#test)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -83,16 +85,17 @@ Sample BioPAX OWL files are located in the src/main/resources/ of example projec
 # ChiBE: Chisio BioPAX Editor Quickstart
 
 ## Project Website
-
-https://code.google.com/p/chibe/
+* [Website](https://code.google.com/p/chibe/)
 
 ## Download 
-### Link for OSX:  http://www.cs.bilkent.edu.tr/~ivis/chibe/chibe-2.2.0-setup-macosx-x86.zip
+* [OSX](http://cbio.mskcc.org/~ozgun/chibe-latest-build-macosx-x86.zip)
 
 ## Installation 
 Unzip and in the command line (in the unzipped directory), run: 
 
+```
 ./ChiBE.sh
+```
 
 ## Usage 
 
@@ -111,3 +114,13 @@ ChiBE has access to an aggregated dataset known as Pathway Commons and can query
 Query -> Pathway Commons (Level 3) -> Pathways with Keyword -> Enter "Glycolysis" (for example) 
 
 Select your pathway of interest. 
+
+# BioPAX Web Console
+
+BioPAX Web Console is an environment to try out Paxtools
+
+* [Code Repository: https://github.com/cannin/biopaxWebConsole](https://github.com/cannin/biopaxWebConsole)
+* [Live Version: http://pk0iye.appspot.com/](http://pk0iye.appspot.com/)
+
+# Links 
+## Test
