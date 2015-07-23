@@ -29,9 +29,9 @@
 
 ## Download Setups
 
-* IntelliJ Community Edition (Java Editor): https://www.jetbrains.com/idea/download/
-* Maven (Java Dependency Major): http://maven.apache.org/download.cgi
-* Protege (OWL Viewer, BioPAX is in OWL-formatted): http://protege.stanford.edu/products.php#desktop-protege
+* IntelliJ Community Edition (Java Editor): [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
+* Maven (Java Dependency Major): [http://maven.apache.org/download.cgi](http://maven.apache.org/download.cgi)
+* Protege (OWL Viewer, BioPAX is in OWL-formatted): [http://protege.stanford.edu/products.php#desktop-protege](http://protege.stanford.edu/products.php#desktop-protege)
 
 ## Installation
 
@@ -68,17 +68,26 @@ mvn archetype:generate -DarchetypeRepository=http://www.biopax.org/m2repo/snapsh
 ```
 
 ## Project will be in folder "test". Build the project with following commands: 
-
+```
 $ cd test
+```
 
 ### Install missing dependencies and compile/build project
+```
 $ mvn clean install
+```
 
 ### Generate a single file will all necessary dependencies
+```
 $ mvn assembly:single
+```
 
 ## Run example project
+```
 $ java -jar ./target/example-single.jar
+```
+
+# Protege
 
 ## Examine OWL file using Protege
 
@@ -128,8 +137,13 @@ The BioPAX Web Console is an environment to try out Paxtools
 
 The Pathway Commons Interactive API is an environment to try out Pathway Commons API functions
 
-* [Full API Documentation](http://www.pathwaycommons.org/pc2/)
+* [Interactive API](http://sanderlab.org/pcapi)
 * [Full API Documentation](http://www.pathwaycommons.org/pc2/)
 
 # Links 
-## Test
+* [BioPAX Mailing List: biopax-discuss@biopax.org](mailto:biopax-discuss@biopax.org)
+* [BioPAX OWL File](http://www.biopax.org/release/biopax-level3.owl)
+* [Graphviz](http://www.graphviz.org/)
+
+
+
