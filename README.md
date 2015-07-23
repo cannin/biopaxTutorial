@@ -1,4 +1,4 @@
-The official Meteor resources page can be found [here](https://www.meteor.com/tools/resources)
+# Paxtools 
 
 - [Paxtools Quickstart](#paxtools-quickstart)
     - [Getting Additional Pathways](#getting-additional-pathways)
