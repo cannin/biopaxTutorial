@@ -1,7 +1,27 @@
-# Paxtools 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Paxtools Quickstart](#paxtools-quickstart)
-    - [Getting Additional Pathways](#getting-additional-pathways)
+  - [Download Setups](#download-setups)
+  - [Installation](#installation)
+  - [Make template Paxtools project.](#make-template-paxtools-project)
+  - [Project will be in folder "test". Build the project with following commands:](#project-will-be-in-folder-test-build-the-project-with-following-commands)
+    - [Install missing dependencies and compile/build project](#install-missing-dependencies-and-compilebuild-project)
+    - [Generate a single file will all necessary dependencies](#generate-a-single-file-will-all-necessary-dependencies)
+  - [Run example project](#run-example-project)
+  - [Examine OWL file using Protege](#examine-owl-file-using-protege)
+- [ChiBE: Chisio BioPAX Editor Quickstart](#chibe-chisio-biopax-editor-quickstart)
+  - [Project Website](#project-website)
+  - [Download](#download)
+    - [Link for OSX:  http://www.cs.bilkent.edu.tr/~ivis/chibe/chibe-2.2.0-setup-macosx-x86.zip](#link-for-osx--httpwwwcsbilkentedutrivischibechibe-220-setup-macosx-x86zip)
+  - [Installation](#installation-1)
+  - [Usage](#usage)
+    - [Multiple Files/Pathways in the Same Session](#multiple-filespathways-in-the-same-session)
+      - [Visualizing](#visualizing)
+  - [Getting Additional Pathways](#getting-additional-pathways)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Paxtools Quickstart
 
