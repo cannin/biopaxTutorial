@@ -1,0 +1,8 @@
+ADP	controls-production-of	CDK1
+ATP	used-to-produce	ADP
+ATP	consumption-controlled-by	CDK1
+CDK1	controls-phosphorylation-of	MAP2K1
+CDK1	controls-state-change-of	MAP2K1
+CDK1	neighbor-of	MAP2K1
+MAP2K1	in-complex-with	MAPK3
+MAP2K1	neighbor-of	MAPK3
