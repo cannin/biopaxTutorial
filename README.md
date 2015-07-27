@@ -6,10 +6,11 @@
   - [Download Setups](#download-setups)
   - [Installation](#installation)
   - [Make template Paxtools project.](#make-template-paxtools-project)
-  - [Project will be in folder "test". Build the project with following commands:](#project-will-be-in-folder-test-build-the-project-with-following-commands)
+  - [Build Project](#build-project)
     - [Install missing dependencies and compile/build project](#install-missing-dependencies-and-compilebuild-project)
     - [Generate a single file will all necessary dependencies](#generate-a-single-file-will-all-necessary-dependencies)
   - [Run example project](#run-example-project)
+    - [Additional Projects for Writing BioPAX](#additional-projects-for-writing-biopax)
 - [Protege](#protege)
   - [Examine OWL file using Protege](#examine-owl-file-using-protege)
 - [ChiBE: Chisio BioPAX Editor Quickstart](#chibe-chisio-biopax-editor-quickstart)
@@ -68,7 +69,9 @@ The project outputs members of all reactions in a pathway and any external datab
 mvn archetype:generate -DarchetypeRepository=http://www.biopax.org/m2repo/snapshots/ -DarchetypeGroupId=org.biopax.paxtools -DarchetypeArtifactId=paxtools-archetype -DarchetypeVersion=4.3.1-SNAPSHOT -DgroupId=com.example.test -DartifactId=test -Dversion=1.0-SNAPSHOT
 ```
 
-## Project will be in folder "test". Build the project with following commands: 
+## Build Project
+
+Project will be in folder "test". Build the project with following commands: 
 ```
 $ cd test
 ```
@@ -87,6 +90,12 @@ $ mvn assembly:single
 ```
 $ java -jar ./target/example-single.jar
 ```
+
+### Additional Projects for Writing BioPAX
+
+A collection of database converters written by B. Arman Aksoy
+
+* [Database Converters for PC](https://bitbucket.org/armish/gsoc14)
 
 # Protege
 
@@ -146,7 +155,8 @@ The Pathway Commons Interactive API is an environment to try out Pathway Commons
 * [BioPAX OWL File](http://www.biopax.org/release/biopax-level3.owl)
 * [BioPAX WebProtege](http://biopax.baderlab.org/webprotege/)
 * [Graphviz](http://www.graphviz.org/)
-* [Systems Biology Graphical Notation](http://www.sbgn.org/)
+* [Systems Biology Graphical Notation (SBGN)](http://www.sbgn.org/)
+* [SBGN Process Description Reference Card](http://www.nature.com/nprot/journal/v7/n3/images/nprot.2012.002-F2.jpg)
 * [cytoscape.js](http://js.cytoscape.org/) 
 * [sbgnviz.js](https://github.com/PathwayCommons/sbgnviz-js)
 * [Pathway Commons Network Visualizer (PCViz)](http://www.pathwaycommons.org/pcviz/)
