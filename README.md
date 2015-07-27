@@ -34,6 +34,7 @@
 * IntelliJ Community Edition (Java Editor): [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
 * Maven (Java Dependency Major): [http://maven.apache.org/download.cgi](http://maven.apache.org/download.cgi)
 * Protege (OWL Viewer, BioPAX is in OWL-formatted): [http://protege.stanford.edu/products.php#desktop-protege](http://protege.stanford.edu/products.php#desktop-protege)
+* ChiBE: Chisio BioPAX Editor: [https://code.google.com/p/chibe/](https://code.google.com/p/chibe/)
 
 ## Installation
 
@@ -104,12 +105,6 @@ A collection of database converters written by B. Arman Aksoy
 Sample BioPAX OWL files are located in the src/main/resources/ of example project. After loading an OWL file, click the "Entities" tab at the top, and in the bottom left panel, click on "Individuals by type". You'll be able to see the classes of objects that exist in the BioPAX ontology schema. The panel to the top right will show you definitions for a BioPAX class. The bottom right panel will show you properties (and the values) for a given BioPAX entity instance. 
 
 # ChiBE: Chisio BioPAX Editor Quickstart
-
-## Project Website
-* [Website](https://code.google.com/p/chibe/)
-
-## Download 
-* [OSX](http://cbio.mskcc.org/~ozgun/chibe-latest-build-macosx-x86.zip)
 
 ## Installation 
 Unzip and in the command line (in the unzipped directory), run: 
