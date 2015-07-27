@@ -87,7 +87,7 @@ $ mvn assembly:single
 
 ## Run example project
 ```
-$ java -jar ./target/example-single.jar
+$ java -jar ./target/example-exec.jar
 ```
 
 ### Additional Projects for Writing BioPAX
