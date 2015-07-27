@@ -14,8 +14,6 @@
 - [Protege](#protege)
   - [Examine OWL file using Protege](#examine-owl-file-using-protege)
 - [ChiBE: Chisio BioPAX Editor Quickstart](#chibe-chisio-biopax-editor-quickstart)
-  - [Project Website](#project-website)
-  - [Download](#download)
   - [Installation](#installation-1)
   - [Usage](#usage)
     - [Multiple Files/Pathways in the Same Session](#multiple-filespathways-in-the-same-session)
