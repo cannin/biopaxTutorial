@@ -80,11 +80,6 @@ $ cd test
 $ mvn clean install
 ```
 
-### Generate a single file will all necessary dependencies
-```
-$ mvn assembly:single
-```
-
 ## Run example project
 ```
 $ java -jar ./target/example-exec.jar
