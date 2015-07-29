@@ -8,7 +8,6 @@
   - [Make template Paxtools project.](#make-template-paxtools-project)
   - [Build Project](#build-project)
     - [Install missing dependencies and compile/build project](#install-missing-dependencies-and-compilebuild-project)
-    - [Generate a single file will all necessary dependencies](#generate-a-single-file-will-all-necessary-dependencies)
   - [Run example project](#run-example-project)
     - [Additional Projects for Writing BioPAX](#additional-projects-for-writing-biopax)
 - [Protege](#protege)
@@ -19,7 +18,7 @@
     - [Multiple Files/Pathways in the Same Session](#multiple-filespathways-in-the-same-session)
       - [Visualizing](#visualizing)
   - [Getting Additional Pathways](#getting-additional-pathways)
-- [BioPAX Web Console](#biopax-web-console)
+- [BioPAX Web Console: Paxtools Playground](#biopax-web-console-paxtools-playground)
 - [Pathway Commons Interactive API](#pathway-commons-interactive-api)
 - [Links](#links)
 
@@ -124,7 +123,7 @@ Query -> Pathway Commons (Level 3) -> Pathways with Keyword -> Enter "Glycolysis
 
 Select your pathway of interest. 
 
-# BioPAX Web Console
+# BioPAX Web Console: Paxtools Playground
 
 The BioPAX Web Console is an environment to try out Paxtools
 
