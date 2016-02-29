@@ -41,13 +41,14 @@
 
 ```
 $ tar -xvf apache-maven-3.2.5-bin.tar.gz
-$ sudo mv apache-maven-3.2.5 /usr/local
+$ sudo mv apache-maven-3.2.5 /usr/local/apache-maven
 
 $ nano ~/.bash_profile
 
 #Add below lines in the .bash_profile
-export M2_HOME=/usr/local/apache-maven-3.2.5
+export M2_HOME=/usr/local/apache-maven
 export PATH=$PATH:$M2_HOME/bin
+# ON OSX, THIS MAY BE NECESSARY: export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home
 #Save and quit
 
 $ source .bash_profile 
