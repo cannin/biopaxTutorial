@@ -141,7 +141,7 @@ The Pathway Commons Interactive API is an environment to try out Pathway Commons
 # Links 
 * [BioPAX Mailing List: biopax-discuss@biopax.org](mailto:biopax-discuss@biopax.org)
 * [BioPAX OWL File](http://www.biopax.org/release/biopax-level3.owl)
-* [BioPAX WebProtege](http://biopax.baderlab.org/webprotege/)
+* [BioPAX WebProtege](http://www.biopax.org/webprotege/)
 * [Graphviz](http://www.graphviz.org/)
 * [Systems Biology Graphical Notation (SBGN)](http://www.sbgn.org/)
 * [SBGN Process Description Reference Card](http://www.nature.com/nprot/journal/v7/n3/images/nprot.2012.002-F2.jpg)
